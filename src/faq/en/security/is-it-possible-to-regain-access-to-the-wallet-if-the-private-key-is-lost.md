@@ -2,7 +2,7 @@
 
 Accessing the wallet funds is only possible if the user has access to the private key or its mnemonic phrase representation in a form of 12-24 words.
 
-Metaegg DeFi is merely a door that allows users to interact with blockchains and cryptocurrencies operating in them. The ability to control and spend cryptocurrency on these blockchains is done via wallet private keys which reside on Metaegg DeFi wallets. These private keys never leave the Unstoppable wallet app and remain solely in users’ hands.
+Metaegg DeFi is merely a door that allows users to interact with blockchains and cryptocurrencies operating in them. The ability to control and spend cryptocurrency on these blockchains is done via wallet private keys which reside on Metaegg DeFi wallets. These private keys never leave the Metaegg DeFi wallet app and remain solely in users’ hands.
 
 It's the responsibility of the user to keep them backed up and protected from unauthorized entities. This also means, Metaegg DeFi is not able to:
 
