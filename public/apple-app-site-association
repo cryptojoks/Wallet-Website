@@ -3,15 +3,15 @@
       "apps": [],
       "details": [
            {
-             "appID": "HC4MCAXJ66.io.horizontalsystems.bank-wallet",
+             "appID": #",
              "paths": ["/wc"]
            },
            {
-             "appID": "HC4MCAXJ66.io.horizontalsystems.bank-wallet.dev",
+             "appID": "#",
              "paths": ["/wc"]
            },
            {
-             "appID": "HC4MCAXJ66.io.horizontalsystems.bank-wallet.dev.testnet",
+             "appID": "#",
              "paths": ["/wc"]
            }
        ]
