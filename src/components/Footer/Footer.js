@@ -20,7 +20,7 @@ class Footer extends React.Component {
           <div className="Divider" />
 
           <div className="Footer-bottom">
-            <a href="https://horizontalsystems.io" target="_blank" rel="noopener noreferrer">
+            <a href="https://antofy.io" target="_blank" rel="noopener noreferrer">
               <Logo className="Logo" />
 
               <div className="Logo-icon">
@@ -28,7 +28,7 @@ class Footer extends React.Component {
               </div>
             </a>
 
-            <span>@ 2022 HorizontalSystems</span>
+            <span>@ 2023 Antofy Labs LLC. </span>
           </div>
         </Container>
       </header>
